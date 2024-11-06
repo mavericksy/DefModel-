@@ -1,1 +1,4 @@
-;; TODO: tests and test runner
+;;
+;;
+(load "defmodelstar.asd")
+(ql:quickload 'defmodelstar)
